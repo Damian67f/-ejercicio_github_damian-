@@ -1,0 +1,3 @@
+NPC: Bueno puede comprar la super poción cuando desee...
+
+NPC: ¿Desea comprar algún otro producto?
