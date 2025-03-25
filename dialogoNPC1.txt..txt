@@ -3,3 +3,5 @@ Npc: Nuestros productos son de excelencia!
 Npc: ¿Quiere comprar la super poción?
 
 Respuesta: SI O NO
+
+ ["dialogoNPC-SI"]
